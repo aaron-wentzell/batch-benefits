@@ -1,0 +1,13 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {}
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "EBTBenefitHeaderRecord"
+        }
+    },
+    "id": "a6e8b9d4-181e-49cd-b02d-0f1d662b881e",
+    "version": "5.2.0.0"
+}
